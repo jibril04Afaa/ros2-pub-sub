@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info
+writing ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/PKG-INFO
+writing dependency_links to ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/dependency_links.txt
+writing entry points to ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/entry_points.txt
+writing requirements to ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/requires.txt
+writing top-level names to ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/top_level.txt
+writing manifest file '../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/SOURCES.txt'
+reading manifest file '../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build
+creating /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build/lib
+creating /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build/lib/py-pkg-pub-sub
+copying py-pkg-pub-sub/__init__.py -> /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build/lib/py-pkg-pub-sub
+running install
+running install_lib
+creating /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages/py-pkg-pub-sub
+copying /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build/lib/py-pkg-pub-sub/__init__.py -> /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages/py-pkg-pub-sub
+byte-compiling /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages/py-pkg-pub-sub/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/ament_index
+creating /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/ament_index/resource_index
+creating /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/ament_index/resource_index/packages
+copying resource/py-pkg-pub-sub -> /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/ament_index/resource_index/packages
+copying package.xml -> /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/py-pkg-pub-sub
+running install_egg_info
+Copying ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info to /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages/py_pkg_pub_sub-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/install.log'

@@ -1,0 +1,16 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/PKG-INFO
+../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/SOURCES.txt
+../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/dependency_links.txt
+../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/entry_points.txt
+../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/requires.txt
+../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/top_level.txt
+../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/zip-safe
+py-pkg-pub-sub/__init__.py
+resource/py-pkg-pub-sub
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

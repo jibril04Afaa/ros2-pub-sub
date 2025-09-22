@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/py-robot-controller/py_robot_controller.egg-info
+writing ../../build/py-robot-controller/py_robot_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/py-robot-controller/py_robot_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/py-robot-controller/py_robot_controller.egg-info/entry_points.txt
+writing requirements to ../../build/py-robot-controller/py_robot_controller.egg-info/requires.txt
+writing top-level names to ../../build/py-robot-controller/py_robot_controller.egg-info/top_level.txt
+writing manifest file '../../build/py-robot-controller/py_robot_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/py-robot-controller/py_robot_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/py-robot-controller/py_robot_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jibrilinux/ros2_ws/build/py-robot-controller/build
+creating /home/jibrilinux/ros2_ws/build/py-robot-controller/build/lib
+creating /home/jibrilinux/ros2_ws/build/py-robot-controller/build/lib/py-robot-controller
+copying py-robot-controller/__init__.py -> /home/jibrilinux/ros2_ws/build/py-robot-controller/build/lib/py-robot-controller
+running install
+running install_lib
+creating /home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages/py-robot-controller
+copying /home/jibrilinux/ros2_ws/build/py-robot-controller/build/lib/py-robot-controller/__init__.py -> /home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages/py-robot-controller
+byte-compiling /home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages/py-robot-controller/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/jibrilinux/ros2_ws/install/py-robot-controller/share/ament_index
+creating /home/jibrilinux/ros2_ws/install/py-robot-controller/share/ament_index/resource_index
+creating /home/jibrilinux/ros2_ws/install/py-robot-controller/share/ament_index/resource_index/packages
+copying resource/py-robot-controller -> /home/jibrilinux/ros2_ws/install/py-robot-controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/jibrilinux/ros2_ws/install/py-robot-controller/share/py-robot-controller
+running install_egg_info
+Copying ../../build/py-robot-controller/py_robot_controller.egg-info to /home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages/py_robot_controller-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/jibrilinux/ros2_ws/build/py-robot-controller/install.log'

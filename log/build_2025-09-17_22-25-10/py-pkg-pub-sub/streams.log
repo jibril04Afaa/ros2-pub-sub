@@ -1,0 +1,34 @@
+[0.268s] Invoking command in '/home/jibrilinux/ros2_ws/src/py-pkg-pub-sub': PYTHONPATH=/home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py-pkg-pub-sub build --build-base /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build install --record /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/install.log --single-version-externally-managed install_data
+[0.349s] running egg_info
+[0.349s] creating ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info
+[0.349s] writing ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/PKG-INFO
+[0.349s] writing dependency_links to ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/dependency_links.txt
+[0.349s] writing entry points to ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/entry_points.txt
+[0.349s] writing requirements to ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/requires.txt
+[0.349s] writing top-level names to ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/top_level.txt
+[0.349s] writing manifest file '../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/SOURCES.txt'
+[0.350s] reading manifest file '../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/SOURCES.txt'
+[0.350s] adding license file 'LICENSE'
+[0.350s] writing manifest file '../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info/SOURCES.txt'
+[0.350s] running build
+[0.350s] running build_py
+[0.350s] creating /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build
+[0.350s] creating /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build/lib
+[0.350s] creating /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build/lib/py-pkg-pub-sub
+[0.350s] copying py-pkg-pub-sub/__init__.py -> /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build/lib/py-pkg-pub-sub
+[0.350s] running install
+[0.350s] running install_lib
+[0.351s] creating /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages/py-pkg-pub-sub
+[0.351s] copying /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build/lib/py-pkg-pub-sub/__init__.py -> /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages/py-pkg-pub-sub
+[0.351s] byte-compiling /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages/py-pkg-pub-sub/__init__.py to __init__.cpython-310.pyc
+[0.351s] running install_data
+[0.351s] creating /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/ament_index
+[0.351s] creating /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/ament_index/resource_index
+[0.351s] creating /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/ament_index/resource_index/packages
+[0.351s] copying resource/py-pkg-pub-sub -> /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/ament_index/resource_index/packages
+[0.351s] copying package.xml -> /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/share/py-pkg-pub-sub
+[0.351s] running install_egg_info
+[0.352s] Copying ../../build/py-pkg-pub-sub/py_pkg_pub_sub.egg-info to /home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages/py_pkg_pub_sub-0.0.0-py3.10.egg-info
+[0.353s] running install_scripts
+[0.361s] writing list of installed files to '/home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/install.log'
+[0.371s] Invoked command in '/home/jibrilinux/ros2_ws/src/py-pkg-pub-sub' returned '0': PYTHONPATH=/home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jibrilinux/ros2_ws/install/py-pkg-pub-sub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py-pkg-pub-sub build --build-base /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/build install --record /home/jibrilinux/ros2_ws/build/py-pkg-pub-sub/install.log --single-version-externally-managed install_data

@@ -1,0 +1,33 @@
+[0.750s] Invoking command in '/home/jibrilinux/ros2_ws/src/py-robot-controller': PYTHONPATH=/home/jibrilinux/ros2_ws/build/py-robot-controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py-robot-controller build --build-base /home/jibrilinux/ros2_ws/build/py-robot-controller/build install --record /home/jibrilinux/ros2_ws/build/py-robot-controller/install.log --single-version-externally-managed install_data
+[0.914s] running egg_info
+[0.914s] creating ../../build/py-robot-controller/py_robot_controller.egg-info
+[0.915s] writing ../../build/py-robot-controller/py_robot_controller.egg-info/PKG-INFO
+[0.915s] writing dependency_links to ../../build/py-robot-controller/py_robot_controller.egg-info/dependency_links.txt
+[0.915s] writing entry points to ../../build/py-robot-controller/py_robot_controller.egg-info/entry_points.txt
+[0.915s] writing requirements to ../../build/py-robot-controller/py_robot_controller.egg-info/requires.txt
+[0.915s] writing top-level names to ../../build/py-robot-controller/py_robot_controller.egg-info/top_level.txt
+[0.915s] writing manifest file '../../build/py-robot-controller/py_robot_controller.egg-info/SOURCES.txt'
+[0.916s] reading manifest file '../../build/py-robot-controller/py_robot_controller.egg-info/SOURCES.txt'
+[0.917s] writing manifest file '../../build/py-robot-controller/py_robot_controller.egg-info/SOURCES.txt'
+[0.917s] running build
+[0.917s] running build_py
+[0.917s] creating /home/jibrilinux/ros2_ws/build/py-robot-controller/build
+[0.917s] creating /home/jibrilinux/ros2_ws/build/py-robot-controller/build/lib
+[0.917s] creating /home/jibrilinux/ros2_ws/build/py-robot-controller/build/lib/py-robot-controller
+[0.918s] copying py-robot-controller/__init__.py -> /home/jibrilinux/ros2_ws/build/py-robot-controller/build/lib/py-robot-controller
+[0.918s] running install
+[0.918s] running install_lib
+[0.918s] creating /home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages/py-robot-controller
+[0.918s] copying /home/jibrilinux/ros2_ws/build/py-robot-controller/build/lib/py-robot-controller/__init__.py -> /home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages/py-robot-controller
+[0.919s] byte-compiling /home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages/py-robot-controller/__init__.py to __init__.cpython-310.pyc
+[0.919s] running install_data
+[0.919s] creating /home/jibrilinux/ros2_ws/install/py-robot-controller/share/ament_index
+[0.919s] creating /home/jibrilinux/ros2_ws/install/py-robot-controller/share/ament_index/resource_index
+[0.919s] creating /home/jibrilinux/ros2_ws/install/py-robot-controller/share/ament_index/resource_index/packages
+[0.919s] copying resource/py-robot-controller -> /home/jibrilinux/ros2_ws/install/py-robot-controller/share/ament_index/resource_index/packages
+[0.919s] copying package.xml -> /home/jibrilinux/ros2_ws/install/py-robot-controller/share/py-robot-controller
+[0.919s] running install_egg_info
+[0.920s] Copying ../../build/py-robot-controller/py_robot_controller.egg-info to /home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages/py_robot_controller-0.0.0-py3.10.egg-info
+[0.921s] running install_scripts
+[0.936s] writing list of installed files to '/home/jibrilinux/ros2_ws/build/py-robot-controller/install.log'
+[0.957s] Invoked command in '/home/jibrilinux/ros2_ws/src/py-robot-controller' returned '0': PYTHONPATH=/home/jibrilinux/ros2_ws/build/py-robot-controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jibrilinux/ros2_ws/install/py-robot-controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py-robot-controller build --build-base /home/jibrilinux/ros2_ws/build/py-robot-controller/build install --record /home/jibrilinux/ros2_ws/build/py-robot-controller/install.log --single-version-externally-managed install_data
